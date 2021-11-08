@@ -1,6 +1,6 @@
 {
-  "username": "___gaming.hub",
-  "password": "adarshm9527",
+  "username": "gaming_bucko",
+  "password": "holyangles98",
   "config": {
     "hashtags": [
       "follow4follow",
